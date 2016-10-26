@@ -1,4 +1,4 @@
-update=Wed 26 Oct 2016 13:58:10 BST
+update=Wed 26 Oct 2016 16:15:31 BST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../../CUSF/m3-avionics/agg-kicad
@@ -44,3 +42,5 @@ LibName12=libs/power
 LibName13=libs/mcp1700
 LibName14=/home/matt/Documents/m3-avionics/agg-kicad/agg-kicad
 LibName15=/home/matt/Documents/CUSF/m3-avionics/agg-kicad/agg-kicad
+[general]
+version=1

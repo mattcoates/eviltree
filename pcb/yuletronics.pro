@@ -1,4 +1,4 @@
-update=Wed 19 Oct 2016 14:13:45 BST
+update=Wed 26 Oct 2016 13:58:10 BST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../../CUSF/m3-avionics/agg-kicad
 [eeschema/libraries]
 LibName1=libs/swd_tc
 LibName2=libs/conn
@@ -43,3 +43,4 @@ LibName11=libs/pwr
 LibName12=libs/power
 LibName13=libs/mcp1700
 LibName14=/home/matt/Documents/m3-avionics/agg-kicad/agg-kicad
+LibName15=/home/matt/Documents/CUSF/m3-avionics/agg-kicad/agg-kicad

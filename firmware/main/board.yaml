@@ -1,0 +1,22 @@
+name: evilTree
+lsefreq: 0
+hsefreq: 0
+voltage: 3.3
+mcutype: STM32F042x6
+default: input, pushpull, starthigh, pullup, highspeed
+pins:
+
+    SWDIO: pa13, af0
+    SWCLK: pa14, pulldown, af0
+    
+    USB_DM: pa11, input
+    USB_DP: pa12, input
+    
+    LED1: pa0, af2
+    LED2: pf0, output, pushpull, startlow 
+    LED3: pf1, output, pushpull, startlow
+    LED4: pa1, af2
+    LED5: pa4, output, pushpull, startlow
+    LED6: pa6, af1
+    LED7: pa7, af1
+    LED8: pb1, af1
